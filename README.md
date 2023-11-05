@@ -8,4 +8,4 @@
 
 ## 功能流程图展示
 
-[SRS功能流程]./function.png
+![SRS功能流程](./function.png)
